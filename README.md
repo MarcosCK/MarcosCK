@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosCK&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCK&layout=compact)](https://github.com/MarcosCK/github-readme-stats)
+
 ### Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br/>
